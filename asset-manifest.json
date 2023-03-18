@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contactform-react/static/css/main.8e375514.css",
+    "main.js": "/contactform-react/static/js/main.67f6d39f.js",
+    "index.html": "/contactform-react/index.html",
+    "main.8e375514.css.map": "/contactform-react/static/css/main.8e375514.css.map",
+    "main.67f6d39f.js.map": "/contactform-react/static/js/main.67f6d39f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e375514.css",
+    "static/js/main.67f6d39f.js"
+  ]
+}
